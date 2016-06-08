@@ -1,4 +1,4 @@
-package edu.keith.bean;
+package edu.keith.demo.bean;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;

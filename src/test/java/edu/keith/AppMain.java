@@ -1,8 +1,8 @@
 package edu.keith;
 
-import edu.keith.bean.App;
-import edu.keith.bean.TaskInfo;
-import edu.keith.service.ElasticsearchService;
+import edu.keith.demo.bean.App;
+import edu.keith.demo.bean.TaskInfo;
+import edu.keith.demo.service.ElasticsearchService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.elasticsearch.search.sort.SortOrder;

@@ -20,6 +20,6 @@
         <constructor-arg name="client" ref="client" />
     </bean>
 
-    <bean name="elasticsearchService" class="edu.keith.service.ElasticsearchService" init-method="init"/>
+    <bean name="elasticsearchService" class="edu.keith.demo.service.ElasticsearchService" init-method="init"/>
 
 </beans>

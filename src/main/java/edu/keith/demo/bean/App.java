@@ -1,4 +1,4 @@
-package edu.keith.bean;
+package edu.keith.demo.bean;
 
 import java.util.HashMap;
 import java.util.Map;
